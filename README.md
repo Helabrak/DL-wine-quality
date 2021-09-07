@@ -1,2 +1,3 @@
 # DL-wine-quality
-## Using AI predict the quality of a wine.
+##The Mission: 
+  ##Using AI predict the quality of a wine.
